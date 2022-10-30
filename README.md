@@ -1,4 +1,4 @@
-👋 Hi, I’m Jérôme.B!
+## 👋 Hi, I’m Jérôme.B!
 
 
 I mainly code using Python 💙 (and currently learning Rust), [Codium](https://github.com/VSCodium/vscodium), [vis](https://github.com/martanne/vis) are my go-to development tools.
