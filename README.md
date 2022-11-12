@@ -9,7 +9,8 @@ I’m particularly fond of 🚴, ⛵, ⛰️, 🥾 - I spend most of my time out
 
 
 📫 Get in touch!
-  - 🔐 [Email - PGP](https://fr33tux.org/fr33tux.txt)
   - 🗒️ [Personal website](https://fr33tux.org)
+  - :camera: [Pictures and travels gallery](https://pics.fr33tux.org)
+  - 🔐 [Email - PGP](https://fr33tux.org/fr33tux.txt)
   - 🐦 [Twitter - @fr33tux](https://twitter.com/fr33tux)
   - 🐘 [Mastodon - @fr33tux](https://mamot.fr/@fr33tux)
