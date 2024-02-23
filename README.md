@@ -15,3 +15,6 @@ I’m particularly fond of 🚴, ⛵, ⛰️, 🥾 - I spend most of my time out
   - 🔐 [Email - PGP](https://fr33tux.org/fr33tux.txt)
   - 🐘 [Mastodon - @fr33tux](https://mamot.fr/@fr33tux)
   - 🐦 [Twitter (Archived) - @fr33tux](https://twitter.com/fr33tux)
+
+
+![https://signal.me/#eu/tmXBvYVlOnGina660xTkNEXPRcZ_-nnuhDCjM8xKC7Nsj53ifwxM4pZt0TQOtLhz](https://raw.githubusercontent.com/fr33tux/fr33tux/main/signal_jboursier44.png)
